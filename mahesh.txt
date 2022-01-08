@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E08D-DAD9
+
+ Directory of C:\Users\Mahesh\Desktop\Jekins\JavaProject
+
+08-01-2022  02:55 PM    <DIR>          .
+08-01-2022  12:27 PM    <DIR>          ..
+08-01-2022  02:55 PM               890 Hello.class
+08-01-2022  12:25 PM               146 Hello.java
+08-01-2022  02:55 PM                 0 mahesh.txt
+               3 File(s)          1,036 bytes
+               2 Dir(s)  628,583,624,704 bytes free
